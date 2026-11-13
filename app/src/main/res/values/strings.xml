@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ut3</string>
+
+    <!-- Ejercicio 1 -->
+    <string name="enlace">Introduce un enlace</string>
+    <string name="boton">Abrir</string>
+
+    <!-- Ejercicio 2 -->
+    <string name="ej2_espera">Abriendo el ejercicio 2 en 10 segundos…</string>
+    <string name="ej2_bienvenida">¡Has llegado tras 10 segundos!</string>
+
+    <!-- Ejercicio 6 -->
+    <string name="perfil_imagen">Imagen de perfil</string>
+    <string name="perfil_nombre">David Montes Díaz</string>
+    <string name="perfil_rol">Estudiante de 2º DAM</string>
+    <string name="perfil_descripcion">Me gusta el desarrollo de aplicaciones móviles, la música y los videojuegos.</string>
+    <string name="perfil_boton">Editar perfil</string>
+</resources>

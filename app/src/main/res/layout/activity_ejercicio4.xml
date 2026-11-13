@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA"
+    tools:context=".activity_ejercicio4">
+
+    <FrameLayout
+        android:id="@+id/frame1"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="top|start"
+        android:background="#26A69A" />
+
+    <FrameLayout
+        android:id="@+id/frame2"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="top|center_horizontal"
+        android:background="#4CAF50" />
+
+    <FrameLayout
+        android:id="@+id/frame3"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="top|end"
+        android:background="#8BC34A" />
+
+    <FrameLayout
+        android:id="@+id/frame4"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="center_vertical|start"
+        android:background="#673AB7" />
+
+    <FrameLayout
+        android:id="@+id/frame5"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="center"
+        android:background="#3F51B5" />
+
+    <FrameLayout
+        android:id="@+id/frame6"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="center_vertical|end"
+        android:background="#2196F3" />
+
+    <FrameLayout
+        android:id="@+id/frame7"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="bottom|start"
+        android:background="#E91E63" />
+
+    <FrameLayout
+        android:id="@+id/frame8"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="#F44336" />
+
+    <FrameLayout
+        android:id="@+id/frame9"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_gravity="bottom|end"
+        android:background="#EFA58C" />
+
+</FrameLayout>
